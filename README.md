@@ -11,7 +11,7 @@ Download [nodejs](https://nodejs.org/)
 
 
 ```javascript
-git clone https://github.com/TahaGorme/token-joiner-and-booster.git
+git clone https://github.com/aresxrd/token-joiner-booster
 ```
 
 ```javascript
